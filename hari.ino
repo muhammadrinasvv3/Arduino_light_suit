@@ -8,6 +8,7 @@
  ra-right arm
  lh - left hip
  rh - right hip
+ 'ascvhgasvcghasv
  ha- both hand
  ll - left leg
  rl - right leg
