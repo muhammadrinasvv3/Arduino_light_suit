@@ -32,7 +32,7 @@ rlc - right hand&left leg
   digitalWrite(6,1);
   digitalWrite(5,1);
   digitalWrite(4,1);
-  digitalWrite(3,1);
+  digitalWrite(3,0);
   digitalWrite(2,1);
 
 
