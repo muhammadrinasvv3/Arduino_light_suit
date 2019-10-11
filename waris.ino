@@ -271,7 +271,7 @@ void bt(){
   delay(100);
   digitalWrite(4, HIGH);
   delay(100);
-  digitalWrite(4, LOW);
+  digitalWrite(5, LOW);
   delay(100);
   }
 
