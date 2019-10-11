@@ -488,7 +488,7 @@ delay(2500);
   delay(2050);
 
   {allon();} 
-  delay(10000); //3rd
+  delay(1000000); //3rd
 
 
 }
