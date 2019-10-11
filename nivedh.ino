@@ -295,7 +295,7 @@ void lhh()
 {
  digitalWrite(2,1);
  digitalWrite(5,1);
- delay(1000);
+ delay(10000);
 //   digitalWrite(2,0);
 // digitalWrite(5,0);
 // delay(1000);
