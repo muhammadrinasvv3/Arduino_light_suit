@@ -280,7 +280,7 @@ void tb(){
   digitalWrite(4, HIGH);
   delay(100);
   digitalWrite(4, LOW);
-  delay(100);
+  delay(1000);
     digitalWrite(3, HIGH);
    digitalWrite(2, HIGH);
   delay(100);
